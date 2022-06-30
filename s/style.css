@@ -1,0 +1,47 @@
+body {background: #F1F8F9; font-family: 'Roboto', sans-serif;}
+
+.shapka {display: flex; justify-content: center;}
+.sh {display: inline-block; padding: 20px;}
+.shp {font-family: 'Roboto', sans-serif; font-size: 85%;}
+
+.titul {display: flex;}
+.pts {display: inline-block; margin: 15%;}
+.h21 {width: 10%; font-size: 120%;}
+.p1 {margin: 40px 0px 0px 0px; width: 75%;}
+.p2 {color: #797979;}
+.foto_pts {display: inline-block; float: right; margin: 10% 0px 0px 0px;}
+.f1 {width: 100%; display: block; float: right; margin: 0% 0px 0px 0px;}
+
+.a {text-decoration: none; color: #000;}
+
+.foot {display: flex; justify-content: center; margin: 10% 0px 0px 0px;}
+.cr {font-family: 'Roboto', sans-serif; font-size: 85%;}
+
+.po1 {display: flex; justify-content: center;}
+.po2 {width: 70%; font-size: 100%; padding: 40px 0px 0px 0px;}
+
+.beloe {padding: 40px 0px 0px 0px;}
+.po3 {display: flex; justify-content: center; border: 5px solid #F1F8F9;}
+.po4 {width: 60%; padding: 10px;}
+.h22 {font-size: 120%;}
+
+.razv {margin: 40px 0px 40px 15%;}
+
+.tt {display: flex;}
+.t {display: inline-block;}
+.opisalovo {margin: 40px 0px 40px 15%; width: 25%;}
+.skach {margin: 40px 0px 40px 15%;}
+.ga {text-decoration: none; color:  #797979;}
+.skacht {font-family: 'Roboto', sans-serif; font-size: 100%; color: #797979;}
+.ph {display: inline-block; float: right; margin: 5% 0px 0px 0px;}
+.r { float: right; width: 300%; }
+.text1 {font-family: 'Roboto', sans-serif; font-size: 100%;}
+.skachh {font-family: 'Roboto', sans-serif; font-size: 100%;}
+
+
+
+.b:hover {color:#582894;}
+.p2:hover {color:#582894;}
+.shp:hover {color:#582894;}
+.ga:hover {color:#582894;}
+.shp:hover {color:#582894;}
